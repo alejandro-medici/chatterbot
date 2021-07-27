@@ -115,7 +115,7 @@
 	</reporting>
 	<properties>
 		<mainVersion>1.1</mainVersion>
-		<springVersion>2.5.5</springVersion>
+		<springVersion>2.5.6.SEC03</springVersion>
 	</properties>
 	<modules>
 		<module>api</module>
