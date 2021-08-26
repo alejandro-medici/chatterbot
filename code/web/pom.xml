@@ -44,8 +44,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<connectors>
-						<connector
-							implementation="org.mortbay.jetty.nio.SelectChannelConnector">
+						<connector implementation="org.mortbay.jetty.nio.SelectChannelConnector">
 							<port>8282</port>
 							<maxIdleTime>60000</maxIdleTime>
 						</connector>
@@ -251,7 +250,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
-			<version>3.4.0.GA</version>
+			<version>4.1.1.Final</version>
 		</dependency>
 
 	</dependencies>
