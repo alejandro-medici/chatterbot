@@ -232,7 +232,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>3.3.0.GA</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 
 		<dependency>
@@ -250,7 +250,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
-			<version>4.1.1.Final</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 
 	</dependencies>
