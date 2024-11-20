@@ -115,7 +115,7 @@
 	</reporting>
 	<properties>
 		<mainVersion>1.1</mainVersion>
-		<springVersion>5.2.19.RELEASE</springVersion>
+		<springVersion>6.1.14</springVersion>
 	</properties>
 	<modules>
 		<module>api</module>
@@ -172,7 +172,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-core</artifactId>
-			<version>5.2.14.RELEASE</version>
+			<version>6.2.7</version>
 		</dependency>
 		<dependency>
 			<groupId>ojdbc</groupId>
